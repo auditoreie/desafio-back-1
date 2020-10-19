@@ -27,8 +27,6 @@ Este repositório contém um problema usado para avaliar as skills do candidato.
 5. Códigos plagiados serão desclassificados;
 5. Não se preocupe com o PR sendo rejeitado, usaremos ele como referência, mas não podemos fazer o merge para não comprometer a resposta de outros candidatos.
 
-## Prazo para entrega
-O projeto deverá ser entregue até 20:00 de domingo (06/09).
 
 # Especificações - Backend
 
