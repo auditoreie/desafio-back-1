@@ -1,7 +1,6 @@
-![Logo](http://cafeepixel.com.br/assinaturas/logo_color_git.png)
-# Desafio CP - Backend
+# Desafio - Backend Lv1
 
-A **Café e Pixel** é uma empresa que oferece diversos serviços, desde consultoria de software ao desenvolvimento completo de uma aplicação robusta.
+A **Auditore Ideias Estratégicas** é uma empresa que oferece diversos serviços, desde consultoria de software ao desenvolvimento completo de uma aplicação robusta.
 
 Nossos desenvolvedores buscam estar sempre em aprendizado contínuo, pois amam o que fazem. Nossos processos de desenvolvimento ágil e nossa busca por melhores práticas de desenvolvimento nos proporcionam um ótimo ambiente para profissionais que gostam de criar softwares de qualidade em boa companhia.
 
@@ -19,10 +18,8 @@ Este repositório contém um problema usado para avaliar as skills do candidato.
 ## Como participar
 
 1. Faça um fork desse repositório no github e adicione permissão de leitura para **todos** os usuários abaixo:
-- [Marcelo](https://github.com/marcelomoreles)
 - [Édipo](http://github.com/shuhikari)
-- [Jailton](https://github.com/jlandim)
-- [Manoel](https://github.com/Manogel)
+
 
 2. Siga as instruções do README.md (este arquivo);
 3. Faça o deploy do seu projeto em algum serviço de hospedagem (Heroku, Firebase, Netlify, etc);
@@ -85,7 +82,7 @@ Caso você esteja concorrendo à vaga de fullstack, **faça a integração da su
 O fluxo de adicionar o livro ao carrinho será controlado localmente.
 
 
-[Desafio de Frontend](https://github.com/cafeepixel/desafio-cp-front)
+[Desafio de Frontend](https://github.com/auditoreie/desafio-front-1)
 
 
 
